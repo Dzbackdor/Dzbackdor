@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dzone</h1>
+<h1 align="center">Hi Guys👋, I'm Dzone</h1>
 <h3 align="center">I like Ethical hacking and SEO website optimization, I'm from Indonesia</h3>
 
 ###
