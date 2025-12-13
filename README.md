@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dzbackdor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=dzbackdor)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dzbackdor&label=Profile%20views&color=00ff00&style=flat" alt="dzbackdor" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dzbackdor&theme=onedark" alt="dzbackdor" /></a> </p>
