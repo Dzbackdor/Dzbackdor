@@ -4,13 +4,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dzbackdor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dzbackdor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Dzbackdor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Dzbackdor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dzbackdor&label=Profile%20views&color=00ff00&style=flat" alt="dzbackdor" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dzbackdor&label=Profile%20views&color=brightgreen&style=flat" alt="dzbackdor" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dzbackdor&theme=onedark" alt="dzbackdor" /></a> </p>
+[![trophy](https://trophy.ryglcloud.net/?username=Dzbackdor&theme=onedark&title=MultiLanguage,Stars,Followers,Repositories,Commits,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
 
@@ -46,3 +46,15 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
 </p>
+
+
+
+<div align="center">
+<a href="https://github.com/Dzbackdor/XML-RPC-PING">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Dzbackdor&repo=XML-RPC-PING&theme=radical" />
+</a>
+
+<a href="https://github.com/Dzbackdor/Bx-Website-Optimization">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Dzbackdor&repo=Bx-Website-Optimization&theme=radical" />
+</a>
+</div>
