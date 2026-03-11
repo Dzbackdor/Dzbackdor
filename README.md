@@ -49,8 +49,8 @@
 
 
 <div align="center">
-<a href="https://github.com/Dzbackdor/XML-RPC-PING">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Dzbackdor&repo=XML-RPC-PING&theme=radical" />
+<a href="https://github.com/Dzbackdor/Backdoor-Scanner">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Dzbackdor&repo=Backdoor-Scanner&theme=radical" />
 </a>
 
 <a href="https://github.com/Dzbackdor/Bx-Website-Optimization">
