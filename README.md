@@ -49,13 +49,9 @@
 
 
 <div align="center">
-<a href="https://github.com/Dzbackdor/Backdoor-Scanner">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Dzbackdor&repo=Backdoor-Scanner&theme=radical" />
-</a>
-
-<a href="https://github.com/Dzbackdor/Bx-Website-Optimization">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Dzbackdor&repo=Bx-Website-Optimization&theme=radical" />
-</a>
+  <a href="https://github.com/Dzbackdor/Bx-Website-Optimization">
+    <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Dzbackdor&repo=Bx-Website-Optimization&theme=radical" />
+  </a>
 </div>
 
 <h3 align="left">Play Games With Me 🎮🕹️👾</h3>
